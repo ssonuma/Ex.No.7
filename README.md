@@ -12,6 +12,29 @@
 
 ---
 
+# Explanation: 
+Prompt:
+"Design a personal productivity assistant that can help manage daily tasks, schedule reminders, suggest wellness tips, and answer general queries. The assistant should interact using natural language and be adaptable to the user’s changing preferences over time."
+Procedure:
+1. Define the core requirements of a personal productivity assistant.
+2. Identify and construct appropriate prompts for each task using an LLM (e.g., ChatGPT).
+3. Simulate natural user interaction through a simple interface or command-line system.
+4. Collect feedback or inputs from users and adapt responses accordingly.
+5. (Optional) Integrate basic memory to simulate preference adaptation.
+EXPECTED OUTPUT: - (attached the drive link)
+Output (Example Response by LLM):
+Personal Productivity Assistant Features:
+1. Daily Task Manager:
+o Accept tasks via natural language (e.g., "Remind me to call mom at 6 PM").
+o Organize tasks by priority and deadline.
+o Provide daily summaries and pending items.
+2. Smart Scheduler:
+o Schedule events and set reminders using contextual understanding.
+o Notify user of overlapping appointments or free time slots.
+3. Wellness Tips Generator:
+o Suggest daily wellness advice (hydration, exercise, screen-time breaks).
+o Adapt suggestions based on past user preferences and responses.
+
 ## ** Project Explanation**
 
 This project showcases how prompt engineering can be used to build a **Personal Productivity Assistant** capable of:
